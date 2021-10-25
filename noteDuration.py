@@ -1,13 +1,11 @@
 import random
 
-# random time between 250-1000 milliseconds
+# time in milliseconds
 
 def duration(length):
 
     time = 0
 
-    # random time between 250-1000 milliseconds
-    # randomDuration = random.randint(250, 1000)
 
     if length == 'eighth':
         time = 250

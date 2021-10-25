@@ -6,7 +6,6 @@ def duration(length):
 
     time = 0
 
-
     if length == 'eighth':
         time = 250
     if length == 'quarter':

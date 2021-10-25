@@ -4,13 +4,6 @@ import noteFunctions
 import readingFrequency
 
 
-def print_test():
-    print("\nyou are listening to computer music")
-
-# print_test()
-
-# --------------------------------------------------------
-
 # noteFunctions.playRandomFromSelection(noteScale.CMajor4Scale)
 
 # noteFunctions.playRandomStructuredByScale(noteScale.CMajor4Scale)
